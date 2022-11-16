@@ -1,0 +1,10 @@
+ngri hvs
+Monitoring the micro seismicity of Nuclear power plant site within the radius of 50 km from the Kakrapar Atomic Power Plant (KAPP) and Rajasthan Atomic Power Plant (RAPP), for that we acquired seismic data from the stations, data can be processed by using the seisan software  and estimation of magnitude, locations of earthquakes and also what depth of earthquake occurs. 
+
+Preparation of seismicity maps through python libraries like matplotlib, pandas and numpy.
+
+writing the code for the formulas to execute the calculations. 
+
+
+2D Resistivity data acquisition, processing and also identifying the potential zones of the subsurface of the earth, spatial data to prepare reports and presentations. GPS datasets are collected in the field locations, by using the ArcGIS software to preparing the maps, reports and support various projects.
+
